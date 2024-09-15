@@ -1,2 +1,2 @@
-# Postman
-Postman collections
+# petfriends-postman
+PetFriends Postman collections.
